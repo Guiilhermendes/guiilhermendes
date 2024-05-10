@@ -2,7 +2,7 @@
     <h1> Hello! 👋 </h1>
 </div>
 
-<p>🏙 I'm Guilherme Mendes, I live in São Paulo - SP - Brasil!</p>
+<p>🏙 I'm Guilherme Mendes, I live in São Paulo - SP - Brazil!</p>
 <p>📚 I'm a full stack developer, I work on creating systems for companies as well as websites and mobile applications (for iOS and Android).</p>
 
 <h5>

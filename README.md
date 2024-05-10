@@ -12,8 +12,8 @@
 &nbsp;
 
 <div align="center">
-   <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Guiilhermendes&show_icons=true&theme=tokyonight" />
+<!--    <img height="180em" -->
+<!--         src="https://github-readme-stats.vercel.app/api?username=Guiilhermendes&show_icons=true&theme=tokyonight" /> -->
    <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilhermendes&layout=compact&theme=tokyonight&langs_count=7" />
 </div>

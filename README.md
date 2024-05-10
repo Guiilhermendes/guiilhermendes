@@ -12,15 +12,16 @@
 &nbsp;
 
 <div align="center">
-<!--    <img height="180em" -->
-<!--         src="https://github-readme-stats.vercel.app/api?username=Guiilhermendes&show_icons=true&theme=tokyonight" /> -->
-   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilhermendes&layout=compact&theme=tokyonight&langs_count=7" />
+</div>
+
+<div  align="center" style="margin-bottom:100px">
+    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Guiilhermendes&theme=dark&mode=weekly" />
+    <img width=40% align="center" src="https://github-readme-stats-eta-hazel-24.vercel.app/api/top-langs/?username=Guiilhermendes&show_icons=true&theme=dark&layout=compact&langs_count=7" />
 </div>
 
 <h2 style="text-align:center">Stacks</h2>
 
-<h3 style="text-align:center">General</h2>
+<h3 style="text-align:center">General</h3>
     <div align="center"
             style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
             <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032"
@@ -41,7 +42,7 @@
                 alt='hard skills logo' />
         </div>
 
-<h3 style="text-align:center">Frontend</h2>
+<h3 style="text-align:center">Frontend</h3>
             <div align="center"
                 style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
                 <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=E34F26"
@@ -70,7 +71,7 @@
                     alt='hard skills logo' />
             </div>
 
-  <h3 style="text-align:center">Backend</h2>
+  <h3 style="text-align:center">Backend</h3>
                 <div align="center"
                     style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
                     <img src="https://img.shields.io/badge/Node-101010?style=for-the-badge&logo=node.js&logoColor=3f873f"
@@ -85,11 +86,11 @@
                         alt='hard skills logo' />
                 </div>
 
-  <h2 style="text-align:center">Contact me!
-            </h3>
+  <h2 style="text-align:center">Contact me!</h2>
 
-  <div>
-                <a href="https://www.linkedin.com/in/guilhermemnds/" target="_blank"><img loading="lazy"
-                        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                        target="_blank"></a>
-            </div>
+<div>
+    <a href="https://www.linkedin.com/in/guilhermemnds/" target="_blank"><img loading="lazy"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank"></a>
+    <a href = "mailto:guilhermemendeds@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
